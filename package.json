@@ -1,7 +1,7 @@
 {
+  "homepage":"https://noianalagras.github.io/PreEntrega2-Lagras-Reactjs",
   "name": "proyecto",
   "version": "0.1.0",
-  "homepage": "",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
